@@ -1,8 +1,6 @@
-kernal loaded
-  -init Github proile 
-  -mask applied <tag:human>
-
-
+-kernal loaded
+-init Github proile 
+-mask applied <tag:human>
 - 👋 Hi, I’m @Niranjith-R
 - 👀 I’m interested in Computer Graphics and Backend dev
 - 🌱 I’m currently learning overall backend tech stack
