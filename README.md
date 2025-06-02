@@ -3,7 +3,9 @@
 *init github profile*  
 *applied mask*  
 *profile [Human]*  
-  
+
+
+      
 
 - 👋 Hi, I’m **@Niranjith-R**
 - 👀 I’m interested in *Computer Graphics* and *Backend dev*
